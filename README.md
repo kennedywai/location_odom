@@ -1,7 +1,7 @@
 # location_odom
-# RosClosestLandmark
+# ROS Closest Landmark
 
-Find the closest landmark in turtlebot world by subscribing the Odometry message
+Find the closest landmark in turtlebot world by subscribing the ROS Navigation Odometry message
 
 cd ~/catkin_ws/src
 
