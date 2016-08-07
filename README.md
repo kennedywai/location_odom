@@ -1,5 +1,5 @@
 # location_odom
-# ROS Closest Landmark
+ROS Closest Landmark
 
 Find the closest landmark in turtlebot world by subscribing the ROS Navigation Odometry message
 
