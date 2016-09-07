@@ -19,6 +19,8 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 
 rosrun location_odom odom_sub_node
 
+(source /opt/ros/indigo/setup.bash)
+
 *****Map Building*****
 
 roslaunch turtlebot_navigation gmapping_demo.launch
