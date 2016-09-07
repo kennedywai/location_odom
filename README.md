@@ -25,6 +25,8 @@ roslaunch turtlebot_navigation gmapping_demo.launch
 
 roslaunch turtlebot_rviz_launchers view_navigation.launch
 
+rosrun map_server map_saver -f /tmp/my_map
+
 *****Navigation*****
 
 roslaunch turtlebot_gazebo amcl_demo.launch map_file:=/tmp/my_map.yaml
