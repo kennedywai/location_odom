@@ -24,7 +24,7 @@ rosrun location_odom odom_sub_node
 *****Map Building*****
 
 roslaunch turtlebot_navigation gmapping_demo.launch
-(http://answers.ros.org/question/205312/no-matching-devices-founded-error-for-gmapping_demolaunch-turtlebot/)
+(http://answers.ros.org/questivon/205312/no-matching-devices-founded-error-for-gmapping_demolaunch-turtlebot/)
 
 roslaunch turtlebot_rviz_launchers view_navigation.launch
 
